@@ -5,10 +5,11 @@ Some conceptual problems are present due to computational reasons: (i) the area 
 # Datasets
 **Point occurences** \
 Mauri, A., Strona, G. & San-Miguel-Ayanz, J. (2017). EU-Forest, a high-resolution tree occurrence dataset for Europe. Scientific data, 4, 1–8.\
+
 **Precipitation and temperature data** Must be added to the "Results" folder\
-[Chelsa - Climate data http://chelsa-climate.org/]
-Temperature data: [https://os.zhdk.cloud.switch.ch/envicloud/chelsa/chelsa_V1/climatologies/bio/CHELSA_bio10_01.tif]
-Precipitation data: [https://os.zhdk.cloud.switch.ch/envicloud/chelsa/chelsa_V1/climatologies/bio/CHELSA_bio10_12.tif]
+[Chelsa - Climate data http://chelsa-climate.org/]\
+Temperature data: [https://os.zhdk.cloud.switch.ch/envicloud/chelsa/chelsa_V1/climatologies/bio/CHELSA_bio10_01.tif]\
+Precipitation data: [https://os.zhdk.cloud.switch.ch/envicloud/chelsa/chelsa_V1/climatologies/bio/CHELSA_bio10_12.tif]\
 
 
 **Elevation data**\
